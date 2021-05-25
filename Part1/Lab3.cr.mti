@@ -1,0 +1,31 @@
+L:/Desktop/Lab3/Part1/light_package.sv {1 {vlog -work work -sv -stats=none L:/Desktop/Lab3/Part1/light_package.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package light_package
+
+Top level modules:
+	--none--
+
+} {} {}} L:/Desktop/Lab3/Part1/traffic_tb.sv {1 {vlog -work work -sv -stats=none L:/Desktop/Lab3/Part1/traffic_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module traffic_tb
+
+Top level modules:
+	traffic_tb
+
+} {} {}} L:/Desktop/Lab3/Part1/traffic1a_tb.sv {1 {vlog -work work -sv -stats=none L:/Desktop/Lab3/Part1/traffic1a_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module traffic1a_tb
+
+Top level modules:
+	traffic1a_tb
+
+} {} {}} L:/Desktop/Lab3/Part1/lab3_part1_tb_enum.sv {1 {vlog -work work -sv -stats=none L:/Desktop/Lab3/Part1/lab3_part1_tb_enum.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package lab3_part1_tb_enum_sv_unit
+-- Importing package light_package
+-- Compiling module lab3_part1_tb
+
+Top level modules:
+	lab3_part1_tb
+
+} {} {}}
